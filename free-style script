@@ -1,0 +1,5 @@
+sonar.projectKey=live01
+sonar.host.url=http://13.200.252.206:9000
+sonar.login   = sqa_e5fb59191c160174411bc2fc8e10e219d20160cd
+sonar.source=src/main/java
+sonar.java.binaries=target/classes
